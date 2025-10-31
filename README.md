@@ -7,7 +7,7 @@ Strong knowledge of HTML5, CSS3, JavaScript, Bootstrap5, jQuery, TypeScript, and
 Hands-on experience building responsive applications and collaborating in team settings. 
 
 
-## :toolbox: Languages and Tools
+## :toolbox: Languages 
 <img align="left" alt="HTML5" width="56px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="56px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Bootstrap" width="56px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
