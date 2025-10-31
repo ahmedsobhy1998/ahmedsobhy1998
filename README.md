@@ -20,3 +20,10 @@ Hands-on experience building responsive applications and collaborating in team s
 <img align="left" alt="DotNetCore" width="56px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="EntityFramework" width="56px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" />
 <img align="left" alt="SQL" width="56px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,angular,cs,dotnet" />
+  </a>
+</p>
+
